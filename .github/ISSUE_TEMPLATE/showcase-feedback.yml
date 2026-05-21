@@ -1,0 +1,17 @@
+name: Showcase feedback
+description: Suggest improvements to the public showcase material.
+title: "[Showcase] "
+labels:
+  - showcase
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include credentials, private customer data, internal URLs, or security-sensitive details.
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      description: What should be improved in the public showcase?
+    validations:
+      required: true
