@@ -9,7 +9,7 @@ This TODO is intentionally public-safe. The goal is to make Elyt look credible, 
 - [x] Build showcase repo outside the private repo.
 - [x] Include only screenshots, demo videos, posters, and high-level docs.
 - [x] Exclude `.env`, cookies, logs, databases, local configs, build artifacts, and private code.
-- [ ] Run one last secret scan before every public push.
+- [x] Run one last secret scan before every public push.
 - [ ] Keep public copy focused on legitimate automation, QA, data collection, monitoring, and owned-account operations.
 
 ## Phase 1 - Repo Foundation
@@ -19,8 +19,8 @@ This TODO is intentionally public-safe. The goal is to make Elyt look credible, 
 - [x] Add media index with source attribution and intended use.
 - [x] Add responsible-use guidance.
 - [x] Add no-license/proprietary notice for product assets and docs.
-- [ ] Add GitHub repository description: `Public showcase for Elyt, a private AI browser automation platform.`
-- [ ] Add GitHub topics: `ai`, `browser-automation`, `workflow-automation`, `tauri`, `fastapi`, `express`, `playwright`, `showcase`.
+- [x] Add GitHub repository description: `Public showcase for Elyt, a private AI browser automation platform.`
+- [x] Add GitHub topics: `ai`, `browser-automation`, `workflow-automation`, `tauri`, `fastapi`, `express`, `playwright`, `showcase`.
 - [ ] Add social preview image after choosing the best hero frame.
 
 ## Phase 2 - Visual Assets
@@ -61,10 +61,10 @@ This TODO is intentionally public-safe. The goal is to make Elyt look credible, 
 
 ## Phase 6 - Launch
 
-- [ ] Create or update the public GitHub repo.
-- [ ] Push only audited showcase files.
+- [x] Create or update the public GitHub repo.
+- [x] Push only audited showcase files.
 - [ ] Verify the README renders media correctly on GitHub.
-- [ ] Check that no private repo paths, local usernames, keys, or internal secrets are visible.
+- [x] Check that no private repo paths, local usernames, keys, or internal secrets are visible.
 - [ ] Link the public showcase repo from the website footer or founder profile if desired.
 - [ ] Revisit the public repo monthly when product screenshots, demo videos, or positioning changes.
 
