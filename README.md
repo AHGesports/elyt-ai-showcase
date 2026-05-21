@@ -243,16 +243,11 @@ Included:
 Not included:
 
 - Private application source code.
-- API keys, form keys, customer data, logs, databases, cookies, or environment files.
-- Provider internals, private deployment scripts, or operational details that should stay private.
+- Provider internals, private deployment scripts, or operational details .
 
 ## Use Cases
 
 - Data collection from authorized sources.
-- E-commerce monitoring and product research.
-- QA and repeatable browser workflow testing.
-- Internal operations that require repeatable browser tasks.
-- Managed multi-account workflows where the operator owns or is authorized to control the accounts.
 
 ## Links
 
