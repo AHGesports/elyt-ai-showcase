@@ -15,5 +15,6 @@ Media in this folder is public showcase material for Elyt.
 ## Notes
 
 - These assets are for product presentation only.
+- The README links to the website-hosted MP4/WebM because those URLs are served with proper video content types. The repository copies are retained as backup assets.
 - Do not add screenshots containing credentials, customer data, private dashboards, internal URLs, cookies, logs, API keys, or local machine paths.
 - Prefer compressed WebP/MP4 assets for GitHub rendering.

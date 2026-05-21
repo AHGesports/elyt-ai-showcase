@@ -2,7 +2,7 @@
 
 AI browser automation across profiles.
 
-[Website](https://elyt-ai.com/) | [Demo video](media/elyt-demo.mp4) | [Product overview](docs/PRODUCT_OVERVIEW.md) | [Showcase TODO](docs/SHOWCASE_TODO.md)
+[Website](https://elyt-ai.com/) | [Demo video](https://elyt-ai.com/Elyt/videos/video.mp4) | [Product overview](docs/PRODUCT_OVERVIEW.md) | [Technical architecture](docs/TECHNICAL_ARCHITECTURE.md)
 
 Elyt is a private commercial platform for building AI-powered browser workflows, running them across many isolated browser profiles, and monitoring execution from one place. This repository is the public showcase for the product. It contains marketing material, screenshots, video assets, and public-safe documentation only.
 
@@ -11,9 +11,17 @@ The production source code lives in a private repository and is not included her
 ## Demo
 
 <p align="center">
-  <a href="media/elyt-demo.mp4">
+  <a href="https://elyt-ai.com/Elyt/videos/video.mp4">
     <img src="media/elyt-demo-poster.webp" alt="Elyt demo video poster" width="760">
   </a>
+</p>
+
+<p align="center">
+  <a href="https://elyt-ai.com/Elyt/videos/video.mp4">Watch MP4</a>
+  ·
+  <a href="https://elyt-ai.com/Elyt/videos/video.webm">Watch WebM</a>
+  ·
+  <a href="media/elyt-demo.mp4">Repository copy</a>
 </p>
 
 ## What Elyt Does
@@ -24,6 +32,7 @@ The production source code lives in a private repository and is not included her
 - Supports multi-step workflows with branching, scheduling, retries, execution history, and status tracking.
 - Works with multiple AI model providers, including OpenAI, Anthropic, Google Gemini, Groq, Ollama, and local models.
 - Provides both web and desktop deployment paths for teams that need cloud convenience or local execution.
+- Uses a split architecture: web UI, Node.js orchestration API, Python automation engine, queue-backed scheduling, and a Tauri desktop shell for local execution.
 
 ## Screenshots
 
@@ -65,6 +74,8 @@ flowchart TD
     Local --> Models["OpenAI, Anthropic, Gemini, Groq, Ollama, local models"]
 ```
 
+For deeper diagrams and technical notes, see [Technical Architecture](docs/TECHNICAL_ARCHITECTURE.md).
+
 ## Public Repo Scope
 
 Included:
@@ -72,7 +83,7 @@ Included:
 - Public README and product explanation.
 - Screenshots, posters, and demo video assets.
 - High-level architecture and use-case documentation.
-- Responsible-use positioning and launch TODOs.
+- Responsible-use positioning.
 
 Not included:
 
