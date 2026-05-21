@@ -4,7 +4,7 @@ Media in this folder is public showcase material for Elyt.
 
 ## Files
 
-- `elyt-full-page.png` - Full-page marketing site screenshot.
+- `elyt-full-page-2026-05-21.png` - Fresh full-page marketing site screenshot captured on 2026-05-21.
 - `elyt-demo.mp4` - Demo video from the Elyt marketing site assets.
 - `elyt-demo.webm` - WebM version of the demo video.
 - `elyt-demo-poster.webp` - Poster frame for the demo video.

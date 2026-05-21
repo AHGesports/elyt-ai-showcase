@@ -45,7 +45,7 @@ This repository is the public showcase for Elyt. It contains screenshots, demo m
 <summary>Full-page marketing screenshot</summary>
 
 <p align="center">
-  <img src="media/elyt-full-page.png" alt="Elyt marketing site full-page screenshot" width="760">
+  <img src="media/elyt-full-page-2026-05-21.png" alt="Elyt marketing site full-page screenshot" width="760">
 </p>
 
 </details>
